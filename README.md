@@ -1,3 +1,5 @@
+# How to Read RSS Feeds Using Firefox
+
 The RSS extension "Feedbro" is a recommended extension for Mozilla Firefox.
 
 
